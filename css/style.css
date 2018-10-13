@@ -1,0 +1,24 @@
+.wrapper{
+    width: 100%;
+    margin: 0;
+    float: left;
+}
+.nav-item{
+    margin: 0 31px;
+    font-size: 20px;
+}
+.footer p{
+    text-align: center;
+    font-size: 13px;
+    margin: 0;
+}
+.footer a{
+    color: #000000;
+}
+.search_btn span{
+    color: rgba(0,0,0,.5);
+    font-size: 13px;
+}
+.directory_table h3{
+    text-align: center;
+}
