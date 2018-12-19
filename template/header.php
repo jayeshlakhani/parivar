@@ -21,7 +21,7 @@
     
     <!-- Navigation -->
 
-    <div class="wrapper nb">
+    <div class="wrapper nb bg-light">
       <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <a class="navbar-brand" href="#">Parivar Name</a>
