@@ -1,25 +1,28 @@
+<!-- Header -->
 <?php include_once("template/header.php") ?>
-    <!-- Body Part -->
+<!-- Body Part -->
 
     <!-- Banner -->
 
     <div class="wrapper mt-10 mb-50">
-      <img src="images/banner.jpg" width="100%" height="802 px" alt="Banner">
+    	<div class="white_bg">
+      		<img src="images/banner-2.svg" width="100%" height="615px" alt="Banner">
+      	</div>
     </div>
 
     <!-- Moto -->
 
     <div class="wrapper mb-50">
       <div class="container">
-        <h2>Lorem ipsum dolor sit amet.</h2>
-        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae mollitia adipisci nisi eos illum omnis, asperiores tempora corrupti repellat optio magni atque praesentium</h3>
+        <h2>શ્રી કર્ણાવત પરિવાર,</h2>
+        <h3>શ્રી ઉકાણી, ભોજાણી, ખીમાણી, લાખાણી પરિવાર.</h3>
         <br>
         <br>
-        <h2>ઉદ્દેશ</h2>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae mollitia adipisci nisi eos illum omnis, asperiores tempora corrupti repellat optio magni atque praesentium nostrum porro odit architecto ex quam aperiam!</h3>
+        <h2>ઉદ્દેશ : </h2>
+        <h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp કર્ણાવત પરિવારમાં કુટુંબ ભાવના પ્રબળ બને તથા પરિવાર ના સભ્યો નો શૈક્ષણિક તથા આર્થિક વિકાશ થાય એ ઉદ્દેશ થી આ વેબસાઈટ નું નિર્માણ કરવામાં આવ્યુ છે.</h3>
       </div>
     </div>
 
-    <!-- Body Part -->
-
+<!-- Body Part -->
+<!-- Footer -->
 <?php include_once("template/footer.php") ?>

@@ -1,17 +1,19 @@
- <!-- Footer -->
+<!-- Footer -->
 
-    <div class="wrapper bg-light footer">
+    <div class="wrapper bg-light footer mt-10">
       <p>પરીવારની માહિતીમાં ફેરફાર કરવા માટે અથવા નવા પરીવારની માહિતી આપવા માટે :</p>
-      <p>MO : xxx-xxx-xxxx => Name</p>
-      <p>Email : name@gmail.com</p>
-      <p>© Copyright 2018 Parivar Name</p>
-      <p>Designed by : <a href="#">Jayesh Lakhani</a></p>
+      <p>MO : xxx-xxx-xxxx => Name <span class="ml-58">Email : name@gmail.com</span></p>
+      <p>© Copyright 2018 Parivar Name <span class="ml-50">Designed by : <a href="#"></a></span></p>
     </div>
 
     <!-- Optional JavaScript -->
+    <!-- JS CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Main JS -->
+    <script src="js/main.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   </body>
 </html>

@@ -14,13 +14,15 @@
     <!-- Common CSSS -->
     <link rel="stylesheet" href="css/common.css">
 
+
     <title>Parivar Name</title>
   </head>
   <body>
     
     <!-- Navigation -->
 
-    <div class="wrapper">
+    <div class="wrapper nb">
+      <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <a class="navbar-brand" href="#">Parivar Name</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,12 +32,13 @@
             <div class="navbar-nav">
               <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
               <a class="nav-item nav-link" href="directory.php">Directory</a>
-              <a class="nav-item nav-link" href="#">Commity</a>
-              <a class="nav-item nav-link" href="#">Roots</a>
-              <a class="nav-item nav-link" href="#">History</a>
-              <a class="nav-item nav-link" href="#">Contact</a>
+              <a class="nav-item nav-link" href="commity.php">Commity</a>
+              <a class="nav-item nav-link" href="roots.php">Roots</a>
+              <a class="nav-item nav-link" href="history.php">History</a>
+              <a class="nav-item nav-link" href="contact.php">Contact</a>
               <a class="nav-item nav-link" href="#">Family Form</a>
             </div>
           </div>
         </nav>
+      </div>
     </div>
