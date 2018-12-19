@@ -22,7 +22,7 @@ body {
 .footer p{
     text-align: center;
     font-size: 13px;
-    margin: 0;
+    margin-bottom: 10px;
 }
 .footer a{
     color: #000000;
@@ -44,6 +44,9 @@ h3 {
         display: none;
 }
 
+table a {
+    color: #000000;
+}
 /* 
 Max width before this PARTICULAR table gets nasty
 This query will take effect for any screen smaller than 760px
@@ -295,4 +298,7 @@ Thanks :)*/
     background-color: #0062cc;
     border: none;
     cursor: pointer;
+}
+.person{
+    display: flex;
 }

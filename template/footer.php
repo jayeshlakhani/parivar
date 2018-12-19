@@ -1,9 +1,10 @@
 <!-- Footer -->
 
     <div class="wrapper bg-light footer pt-10">
-      <p>પરીવારની માહિતીમાં ફેરફાર કરવા માટે અથવા નવા પરીવારની માહિતી આપવા માટે :</p>
-      <p>MO : xxx-xxx-xxxx => Name <span class="ml-58">Email : name@gmail.com</span></p>
-      <p>© Copyright 2018 Parivar Name <span class="ml-50">Designed by : <a href="#"></a></span></p>
+      <div class="container">
+        <p>પરીવારની માહિતીમાં ફેરફાર કરવા માટે અથવા નવા પરીવારની માહિતી આપવા માટે : MO : xxx-xxx-xxxx => Name/ Email : name@gmail.com</p>
+        <p>Copyright 2018 © Bhojani Parivar<span class="ml-50">Designed by : <a href="#"></a></span></p>
+      </div>
     </div>
 
     <!-- Optional JavaScript -->

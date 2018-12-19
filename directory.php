@@ -35,14 +35,14 @@
                 <th scope="col">Occupation</th>
                 <th scope="col">Study</th>
                 <th scope="col">Place</th>
-                <th scope="col">Number</th>
+                <th scope="col">Mobile No.</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td class="tdetail">1</td>
-                <td class="tdetail"><img class="person-icon" src="images/person-icon.png"></td>
-                <td class="tdetail">jayesh lakhani</td>
+                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
                 <td class="tdetail">Anjar</td>
                 <td class="tdetail">Job</td>
                 <td class="tdetail">12th</td>
@@ -62,8 +62,8 @@
               </tr>
               <tr>
                 <td class="tdetail">2</td>
-                <td class="tdetail"><img class="person-icon" src="images/person-icon.png"></td>
-                <td class="tdetail">jayesh lakhani</td>
+                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
                 <td class="tdetail">Anjar</td>
                 <td class="tdetail">Job</td>
                 <td class="tdetail">12th</td>
@@ -83,8 +83,8 @@
               </tr>
               <tr>
                 <td class="tdetail">3</td>
-                <td class="tdetail"><img class="person-icon" src="images/person-icon.png"></td>
-                <td class="tdetail">jayesh lakhani</td>
+                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
                 <td class="tdetail">Anjar</td>
                 <td class="tdetail">Job</td>
                 <td class="tdetail">12th</td>

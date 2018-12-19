@@ -13,6 +13,9 @@
 .align-center{
 	text-align: center;
 }
+.flex{
+	display: flex;
+}
 
 /*Mixed Blend CSS*/
 .overlay-mode-normal { mix-blend-mode: normal; }
