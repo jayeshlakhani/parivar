@@ -43,7 +43,9 @@ h3 {
 .data-column{
         display: none;
 }
-
+a{
+    color: #000000;
+}
 table a {
     color: #000000;
 }
@@ -99,7 +101,7 @@ only screen and (max-width: 760px),
         /* Now like a table header */
         position: absolute;
         /* Top/left values mimic padding */
-        top: 11px;
+        top: 5px;
         left: 14px;
         width: 45%; 
         padding-right: 10px; 
@@ -123,9 +125,8 @@ only screen and (max-width: 760px),
     background: none;
 }
 .commity_members{
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-evenly;
+    /*display: flex;
+    justify-content: space-evenly;*/
     text-align: center;
 }
 .commity_members div img{
@@ -141,6 +142,8 @@ only screen and (max-width: 760px),
 .tree {
     display: flex;
     justify-content: center;
+    height: 468px;
+    width: 1111px;
 }
 
 .tree ul {
@@ -301,4 +304,28 @@ Thanks :)*/
 }
 .person{
     display: flex;
+}
+
+div[class^="col"] {
+    float: left;
+ padding: 0 15px;
+}
+.col-1  {width: 8.33333333%;}
+.col-2  {width: 16.66666667%;}
+.col-3  {width: 25%;}
+.col-4  {width: 33.33%;}
+.col-5  {width: 41.66666667%}
+.col-6  {width: 50%;}
+.col-7  {width: 58.33333333%;}
+.col-8  {width: 66.66666667%;}
+.col-9  {width: 75%;}
+.col-10 {width: 83.33333333%;}
+.col-11 {width: 91.66666667%;}
+.col-12 {width: 100%;}
+
+.col-2 {
+    margin-bottom: 20px
+}
+.tree_btn{
+    border-radius: 20px;
 }

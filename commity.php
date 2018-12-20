@@ -7,25 +7,28 @@
   <div class="container">
     <h2 class="align-center mt-32 mb-32">Commity Members</h2>
     <div class="commity_members">
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
     </div>
     <div class="commity_members">
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
     </div>
     <div class="commity_members">
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
-      <div><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
+      <div class="col-2"><img src="images/person-icon.png" alt=""><p>Position</p><p>Name</p><p>Place</p></div>
     </div>
     <!-- Pagination -->
     <nav class="float-right mt-20" aria-label="Page navigation example">

@@ -23,7 +23,7 @@
 
     <!-- Directory Table -->
     
-    <div class="wrapper directory_table mt-50">
+    <div class="wrapper mt-50">
       <div class="container">
         <!-- Table -->
         <table class="table table-bordered align-center">

@@ -6,7 +6,9 @@
 
     <div class="wrapper mt-10 mb-50">
     	<div class="white_bg">
-      		<img src="images/banner-2.svg" width="100%" height="615px" alt="Banner">
+      		<div class="container">
+            <img src="images/banner-2.jpg" width="100%" height="615px" alt="Banner">  
+          </div>
       	</div>
     </div>
 

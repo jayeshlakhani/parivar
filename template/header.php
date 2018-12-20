@@ -14,6 +14,8 @@
     <!-- Common CSSS -->
     <link rel="stylesheet" href="css/common.css">
 
+    <!-- Responsive CSSS -->
+    <link rel="stylesheet" href="css/responsive.css">
 
     <title>Parivar Name</title>
   </head>
