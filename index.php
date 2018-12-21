@@ -4,7 +4,7 @@
 
     <!-- Banner -->
 
-    <div class="wrapper mt-10 mb-50">
+    <div class="wrapper">
     	<div class="white_bg">
       		<div class="container">
             <img class="index_banner" src="images/banner-2.jpg" width="100%" height="615px" alt="Banner">  
