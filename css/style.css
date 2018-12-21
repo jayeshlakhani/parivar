@@ -1,8 +1,9 @@
 body {
-    background: #f8f9fa;
+    background: #fecc89 url("../images/body-pattern.png") 0 0 / contain  repeat;
 }
-.white_bg{
-    background: #ffffff;
+.red{
+    background: #88181b;
+    color: #ffffff;
 }
 .wrapper{
     width: 100%;
@@ -15,9 +16,17 @@ body {
     padding: 0 15px;
     width: 100%;
 }
+.banner_logo{
+    width: 688px;
+    display: block;
+    margin: 0 auto;
+}
 .nav-item{
-    margin: 0 31px;
+    margin: 0 20px;
     font-size: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 0;
 }
 .footer p{
     text-align: center;
@@ -44,6 +53,9 @@ h3 {
         display: none;
 }
 a{
+    color: #ffffff;
+}
+a:hover{
     color: #000000;
 }
 table a {

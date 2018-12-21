@@ -5,17 +5,13 @@
     <!-- Banner -->
 
     <div class="wrapper">
-    	<div class="white_bg">
-      		<div class="container">
-            <img class="index_banner" src="images/banner-2.jpg" width="100%" height="615px" alt="Banner">  
-          </div>
-      	</div>
+    	<img class="banner_logo" src="images/banner-logo.svg" alt="">
     </div>
 
     <!-- Moto -->
 
-    <div class="wrapper mb-50">
-      <div class="container">
+    <div class="wrapper mb-50 mt-50">
+      <div class="container align-center">
         <h2>શ્રી કર્ણાવત પરિવાર,</h2>
         <h3>શ્રી ઉકાણી, ભોજાણી, ખીમાણી, લાખાણી પરિવાર.</h3>
         <br>
