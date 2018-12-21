@@ -1,9 +1,11 @@
 @media(max-width:501px) {
 	.col-2{width: 100%;max-width: 100%;}
+	.index_banner{height: 218px;}
 }
 
 @media(min-width:501px) and (max-width:767px) {
 	.col-2{width: 50%;max-width: 50%;}
+	.index_banner{height: 336px;}
 }
 
 @media(max-width:767px) {
@@ -15,10 +17,14 @@
 
 @media(min-width:768px) and (max-width:991px) {
 	.col-2{width: 33.33%;max-width: 33.33%;}
+	.index_banner{height: 432px;}
 }
 
 @media(min-width:992px) and (max-width:1199px) {
+	.index_banner{height: 507px;}
+	.nav-item {margin: 0 13px;}
 }
 
 @media(min-width:1200px) {
+	.nav-item {margin: 0 27px;}
 }

@@ -40,15 +40,15 @@
             </thead>
             <tbody>
               <tr>
-                <td class="tdetail">1</td>
-                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
-                <td class="tdetail">Anjar</td>
-                <td class="tdetail">Job</td>
-                <td class="tdetail">12th</td>
-                <td class="tdetail">Pantiya</td>
-                <td class="tdetail">xxx xxx xxxx</td>
-                <td class="data-column"  data-column="1"><a class="btn btn-primary" data-toggle="collapse" href="#1" role="button" aria-expanded="false" aria-controls="1"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
+                <td data-column = "SR No. :" >1</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+                <!-- <td class="data-column"  data-column="1"><a class="btn btn-primary" data-toggle="collapse" href="#1" role="button" aria-expanded="false" aria-controls="1"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
                 <div class="collapse" id="1">
                   <div class="card card-body">
                     <p><b>City : </b>Anjar</p>
@@ -58,18 +58,18 @@
                     <p><b>Number : </b>xxx xxx xxxx</p>
                   </div>
                 </div>
-                </td>
+                </td> -->
               </tr>
               <tr>
-                <td class="tdetail">2</td>
-                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
-                <td class="tdetail">Anjar</td>
-                <td class="tdetail">Job</td>
-                <td class="tdetail">12th</td>
-                <td class="tdetail">Pantiya</td>
-                <td class="tdetail">xxx xxx xxxx</td>
-                <td class="data-column"  data-column="2"><a class="btn btn-primary" data-toggle="collapse" href="#2" role="button" aria-expanded="false" aria-controls="2"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
+                <td data-column = "SR No. :" >2</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+                <!-- <td class="data-column"  data-column="2"><a class="btn btn-primary" data-toggle="collapse" href="#2" role="button" aria-expanded="false" aria-controls="2"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
                 <div class="collapse" id="2">
                   <div class="card card-body">
                     <p><b>City : </b>Anjar</p>
@@ -79,18 +79,18 @@
                     <p><b>Number : </b>xxx xxx xxxx</p>
                   </div>
                 </div>
-                </td>
+                </td> -->
               </tr>
               <tr>
-                <td class="tdetail">3</td>
-                <td class="tdetail"><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td class="tdetail"><a href="person.php">jayesh lakhani</a></td>
-                <td class="tdetail">Anjar</td>
-                <td class="tdetail">Job</td>
-                <td class="tdetail">12th</td>
-                <td class="tdetail">Pantiya</td>
-                <td class="tdetail">xxx xxx xxxx</td>
-                <td class="data-column"  data-column="3"><a class="btn btn-primary" data-toggle="collapse" href="#3" role="button" aria-expanded="false" aria-controls="3"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
+                <td data-column = "SR No. :" >3</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+                <!-- <td class="data-column"  data-column="3"><a class="btn btn-primary" data-toggle="collapse" href="#3" role="button" aria-expanded="false" aria-controls="3"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
                 <div class="collapse" id="3">
                   <div class="card card-body">
                     <p><b>City : </b>Anjar</p>
@@ -100,7 +100,7 @@
                     <p><b>Number : </b>xxx xxx xxxx</p>
                   </div>
                 </div>
-                </td>
+                </td> -->
               </tr>              
             </tbody>
           </table>
