@@ -3,7 +3,7 @@
 
 <!-- Body Part -->
 
-<div class="wrapper">
+<div class="wrapper float-none">
   <div class="container">
     <h2 class="align-center mt-32 mb-32">Commity Members</h2>
     <div class="commity_members">

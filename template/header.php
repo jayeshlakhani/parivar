@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
     <!-- STYLE CSS -->
     <link rel="stylesheet" href="css/style.css">
@@ -21,26 +21,31 @@
   </head>
   <body>
     
-    <!-- Navigation -->
+  <!-- Navigation -->
 
-    <div class="wrapper red">
-      <div class="container">
-        <nav class="navbar navbar-expand-lg">
-          <a class="navbar-brand"><img src="images/bhojani-parivar.svg" alt="" width="200" height="68"></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-              <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
-              <a class="nav-item nav-link" href="directory.php">Directory</a>
-              <a class="nav-item nav-link" href="commity.php">Commity</a>
-              <a class="nav-item nav-link" href="roots.php">Roots</a>
-              <a class="nav-item nav-link" href="history.php">History</a>
-              <a class="nav-item nav-link" href="contact.php">Contact</a>
-              <a class="nav-item nav-link" href="#">Family Form</a>
-            </div>
+  <div class="wrapper red  pt-10">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand"><img src="images/BhojnaiParivar.svg" width="206px" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon">
+            <div class="nav_line"></div>
+            <div class="nav_line"></div>
+            <div class="nav_line"></div>
+          </span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="directory.php">Directory</a>
+            <a class="nav-item nav-link" href="commity.php">Commity</a>
+            <a class="nav-item nav-link" href="roots.php">Roots</a>
+            <a class="nav-item nav-link" href="history.php">History</a>
+            <a class="nav-item nav-link" href="contact.php">Contact</a>
+            <a class="nav-item nav-link" href="#">Family Form</a>
           </div>
-        </nav>
-      </div>
+        </div>
+      </nav>
     </div>
+  </div>
+  <img src="images/header.png" width="100%" alt="">

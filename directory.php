@@ -42,7 +42,7 @@
               <tr>
                 <td data-column = "SR No. :" >1</td>
                 <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
                 <td data-column = "" class="tdetail">Anjar</td>
                 <td data-column = "" class="tdetail">Job</td>
                 <td data-column = "" class="tdetail">12th</td>
@@ -63,44 +63,82 @@
               <tr>
                 <td data-column = "SR No. :" >2</td>
                 <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
                 <td data-column = "" class="tdetail">Anjar</td>
                 <td data-column = "" class="tdetail">Job</td>
                 <td data-column = "" class="tdetail">12th</td>
                 <td data-column = "" class="tdetail">Pantiya</td>
                 <td data-column = "" class="tdetail">xxx xxx xxxx</td>
-                <!-- <td class="data-column"  data-column="2"><a class="btn btn-primary" data-toggle="collapse" href="#2" role="button" aria-expanded="false" aria-controls="2"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
-                <div class="collapse" id="2">
-                  <div class="card card-body">
-                    <p><b>City : </b>Anjar</p>
-                    <p><b>Occupation : </b>Job</p>
-                    <p><b>Study : </b>12th</p>
-                    <p><b>Place : </b>Pantiya</p>
-                    <p><b>Number : </b>xxx xxx xxxx</p>
-                  </div>
-                </div>
-                </td> -->
               </tr>
               <tr>
                 <td data-column = "SR No. :" >3</td>
                 <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
-                <td data-column = "Full Name :" ><a href="person.php">jayesh lakhani</a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
                 <td data-column = "" class="tdetail">Anjar</td>
                 <td data-column = "" class="tdetail">Job</td>
                 <td data-column = "" class="tdetail">12th</td>
                 <td data-column = "" class="tdetail">Pantiya</td>
                 <td data-column = "" class="tdetail">xxx xxx xxxx</td>
-                <!-- <td class="data-column"  data-column="3"><a class="btn btn-primary" data-toggle="collapse" href="#3" role="button" aria-expanded="false" aria-controls="3"><img class="person-icon" src="images/person-icon.png"><span class="ml-10">jayesh lakhani</span></a>
-                <div class="collapse" id="3">
-                  <div class="card card-body">
-                    <p><b>City : </b>Anjar</p>
-                    <p><b>Occupation : </b>Job</p>
-                    <p><b>Study : </b>12th</p>
-                    <p><b>Place : </b>Pantiya</p>
-                    <p><b>Number : </b>xxx xxx xxxx</p>
-                  </div>
-                </div>
-                </td> -->
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >4</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >5</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >6</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >7</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >8</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
+              </tr>
+              <tr>
+                <td data-column = "SR No. :" >9</td>
+                <td data-column = "Photo :" ><a href="person.php"><img class="person-icon" src="images/person-icon.png"></a></td>
+                <td data-column = "Full Name :" ><a href="person.php">F_Name L_Name</a></td>
+                <td data-column = "" class="tdetail">Anjar</td>
+                <td data-column = "" class="tdetail">Job</td>
+                <td data-column = "" class="tdetail">12th</td>
+                <td data-column = "" class="tdetail">Pantiya</td>
+                <td data-column = "" class="tdetail">xxx xxx xxxx</td>
               </tr>              
             </tbody>
           </table>

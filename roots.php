@@ -96,6 +96,9 @@
       </tbody>
     </table>
     <button class="tree_btn"><a href="root_tree.php" class="btn">Tree View</a></button>
+  </div>
+</div>
+    
     <!-- <iframe src="root_tree.php" frameborder="0" height="468px" width="1111px"></iframe> -->
 
 <!-- Body Part -->

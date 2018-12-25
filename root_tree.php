@@ -1,6 +1,6 @@
 <!-- Header -->
 <!doctype html>
-<html lang="en">
+<html lang="en"  style="height: 100%;">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -20,10 +20,10 @@
 
     <title>Parivar Name</title>
   </head>
-  <body>
+  <body style="height: 100%;">
 <!-- Body Part -->
 
-<div class="wrapper">
+<div class="wrapper" style="height: 100%;display: flex;align-items: center;">
   <div class="container">
     <div class="tree">
       <ul>
