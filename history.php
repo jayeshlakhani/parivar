@@ -2,7 +2,7 @@
 <?php include_once("template/header.php") ?>
 <!-- Body Part -->
 
-<div class="wrapper">
+<div class="wrapper history">
   <div class="container">
     <h2 class="mt-10 align-center">શ્રી અખિલ ભારતીય કચ્છ કડવા પાટીદાર ( કર્ણાવત )</h2>
     <h4 class="mt-10 align-center">કર્ણાવત શાખ શેના ઉપરથી પડી તેનો ઈતિહાસ અને ચાર પેટા શાખા ક્યારથી થઈ તેની વિગત નીચે મુજબ છે :</h4>
